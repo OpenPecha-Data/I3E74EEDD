@@ -1,0 +1,102 @@
+id: e211a13840de45338231c15c7bbce02f
+annotation_type: Language
+revision: '00001'
+annotations:
+  3dd2c92ba2544499867385844b349aba:
+    span:
+      start: 39
+      end: 161
+      errors: null
+    metadata: null
+    language: en
+  f8d9d12e17f34164b6ffa8141ff3d684:
+    span:
+      start: 195
+      end: 647
+      errors: null
+    metadata: null
+    language: en
+  f066af4affd2450a90358dfae5b82145:
+    span:
+      start: 1093
+      end: 1194
+      errors: null
+    metadata: null
+    language: en
+  385d1338d48148eba6d20d45d9268511:
+    span:
+      start: 5752
+      end: 5870
+      errors: null
+    metadata: null
+    language: en
+  783b18bf2df147fe80be1faa8e9a65b7:
+    span:
+      start: 5897
+      end: 5997
+      errors: null
+    metadata: null
+    language: en
+  34116a41e9c74012a57d99dab825fbbc:
+    span:
+      start: 6038
+      end: 6195
+      errors: null
+    metadata: null
+    language: en
+  ca356196a9bd45d0851a0c9dabcb8483:
+    span:
+      start: 10179
+      end: 10280
+      errors: null
+    metadata: null
+    language: en
+  dfbfe23c5aec4e49abc808c565e96d5d:
+    span:
+      start: 628518
+      end: 628821
+      errors: null
+    metadata: null
+    language: en
+  86d0e8130b7d433c944ddb498537a1f9:
+    span:
+      start: 628867
+      end: 629000
+      errors: null
+    metadata: null
+    language: en
+  ab50a8c9ce0c45daae13ffd314b2b018:
+    span:
+      start: 629651
+      end: 629714
+      errors: null
+    metadata: null
+    language: en
+  16120e0be3804644adf42a121ee968f3:
+    span:
+      start: 629754
+      end: 629795
+      errors: null
+    metadata: null
+    language: en
+  e183e4df28d846f99bd296e0015f72f7:
+    span:
+      start: 629839
+      end: 629871
+      errors: null
+    metadata: null
+    language: en
+  adeeb28152174d21ac6b99b0576b889c:
+    span:
+      start: 629899
+      end: 629956
+      errors: null
+    metadata: null
+    language: en
+  a79702627f0f48ec912b47ea110694a5:
+    span:
+      start: 630865
+      end: 631250
+      errors: null
+    metadata: null
+    language: en
